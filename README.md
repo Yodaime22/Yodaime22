@@ -1,5 +1,18 @@
 ![Header](./github-header-image.png)
-## Hi there 👋
+
+## Hi there! 👋 I’m Jhon, a passionate Data Scientist and physicist with expertise in data analysis, machine learning, and Custopmer Service.
+
+I specialize in leveraging Python and SQL to transform data into actionable insights, optimizing processes, and solving complex problems. My work spans various domains, including predictive modeling, data visualization and analysis.
+
+##  Skills & Technologies:
+- **Programming Languages:** Python, SQL
+- **Data Analysis & Machine Learning:** scikit-learn, pandas, numpy
+- **Visualization Tools:** Matplotlib, Seaborn
+- **Data Analysis & Machine Learning:**
+- **Python Libraries:**
+  - scikit-learn: Machine learning algorithms
+  - pandas: Data manipulation and analysis
+  - numpy: Numerical operations
 
 <!--
 **Yodaime22/Yodaime22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
