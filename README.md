@@ -1,8 +1,8 @@
 ![Header](./github-header-image.png)
 
-## Hi there! 👋 I’m Jhon, a passionate Data Scientist and physicist with expertise in data analysis, machine learning, and Custopmer Service.
+## Hi there! 👋 I’m Jhon, a passionate Data Scientist and physicist with expertise in statistics, data analysis and machine learning.
 
-I specialize in leveraging Python and SQL to transform data into actionable insights, optimizing processes, and solving complex problems. My work spans various domains, including predictive modeling, data visualization and analysis.
+I specialize in using Python and SQL to transform data into actionable insights, optimizing processes, and solving complex problems. My work goes from data analysis and visualization to predictive modeling and usage.
 
 ##  Skills & Technologies:
 - **Programming Languages:** Python, SQL
