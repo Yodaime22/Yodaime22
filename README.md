@@ -13,6 +13,9 @@ I specialize in using Python and SQL to transform data into actionable insights,
   - scikit-learn: Machine learning algorithms
   - pandas: Data manipulation and analysis
   - numpy: Numerical operations
+  - 
+## 🌟 Key Projects:
+- **[Predictive Analysis of Video Game Success]([https://github.com/melissa9608/analisis_predictivo](https://github.com/Yodaime22/Customer_churn_prediction.git))**
 
 <!--
 **Yodaime22/Yodaime22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
