@@ -15,7 +15,7 @@ I specialize in using Python and SQL to transform data into actionable insights,
   - numpy: Numerical operations
   - 
 ## 🌟 Key Projects:
-- **[Predictive Analysis of Video Game Success]((https://github.com/Yodaime22/Customer_churn_prediction.git))**
+- **[Customer_Churn_Prediction]((https://github.com/Yodaime22/Customer_churn_prediction.git))**
 
 
 <!--
