@@ -15,7 +15,7 @@ I specialize in using Python and SQL to transform data into actionable insights,
   - numpy: Numerical operations
   - 
 ## 🌟 Key Projects:
-- [Customer Churn Prediction]([https://github.com/octocat/Spoon-Knife](https://github.com/Yodaime22/Customer_churn_prediction.git))
+- [Customer Churn Prediction](https://github.com/octocat/Spoon-Knife](https://github.com/Yodaime22/Customer_churn_prediction.git)
 
 
 <!--
